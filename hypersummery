@@ -1,0 +1,9 @@
+The design presented here describes this evolving blockchain fabric, called Hyperledger , as a protocol for business­to­business and  business­to­customer transactions. Hyperledger allows for compliance with regulations,  while supporting the varied requirements that arise when competing businesses work 
+together on the same network. 
+The central elements of this specification (described  below) are smart contracts (a.k.a. chaincode), digital assets, record repositories, a decentralized consensus­based network, and cryptographic security. 
+
+
+
+
+
+
